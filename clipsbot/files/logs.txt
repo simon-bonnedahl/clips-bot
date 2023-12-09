@@ -1,0 +1,382 @@
+
+
+Nov-30-2023 @ 00:26:44 - info: You're running the latest version of twitchtube at 1.6.6
+Nov-30-2023 @ 00:26:44 - info: You're running the latest version of opplast at 1.0.14
+Nov-30-2023 @ 00:26:44 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Nov-30-2023 @ 00:26:44 - info: Getting clips for channel Trainwreckstv
+Nov-30-2023 @ 00:26:45 - warn: Did not find "data" in response {'data': [], 'pagination': {}} for channel Trainwreckstv, period: 24 language: en
+Nov-30-2023 @ 00:26:45 - info: Getting clips for game Just Chatting
+Nov-30-2023 @ 00:26:47 - clip: Downloading clip with slug: LaconicPluckyBaguetteShazBotstix-j3YBoLtN1MLoN1ka.
+Nov-30-2023 @ 00:26:47 - clip: Saving 'LaconicPluckyBaguetteShazBotstix-j3YBoLtN1MLoN1ka' as 'LaconicPluckyBaguetteShazBotstixj3YBoLtN1MLoN1ka.mp4'.
+Nov-30-2023 @ 00:26:49 - clip: LaconicPluckyBaguetteShazBotstix-j3YBoLtN1MLoN1ka has been downloaded.
+
+Nov-30-2023 @ 00:26:49 - clip: Downloading clip with slug: ClearPlayfulAmazonBIRB-PfDNwX4nP2rkK2y7.
+Nov-30-2023 @ 00:26:49 - clip: Saving 'ClearPlayfulAmazonBIRB-PfDNwX4nP2rkK2y7' as 'ClearPlayfulAmazonBIRBPfDNwX4nP2rkK2y7.mp4'.
+Nov-30-2023 @ 00:26:50 - clip: ClearPlayfulAmazonBIRB-PfDNwX4nP2rkK2y7 has been downloaded.
+
+Nov-30-2023 @ 00:26:50 - clip: Downloading clip with slug: UglyFunnySpiderJebaited-YLFdlfDgLyavTkLp.
+Nov-30-2023 @ 00:26:50 - clip: Saving 'UglyFunnySpiderJebaited-YLFdlfDgLyavTkLp' as 'UglyFunnySpiderJebaitedYLFdlfDgLyavTkLp.mp4'.
+Nov-30-2023 @ 00:26:52 - clip: UglyFunnySpiderJebaited-YLFdlfDgLyavTkLp has been downloaded.
+
+Nov-30-2023 @ 00:26:52 - clip: Downloading clip with slug: SmellyFaithfulPartridgeAllenHuhu-9woNJFpSfwIcH4U9.
+Nov-30-2023 @ 00:26:52 - clip: Saving 'SmellyFaithfulPartridgeAllenHuhu-9woNJFpSfwIcH4U9' as 'SmellyFaithfulPartridgeAllenHuhu9woNJFpSfwIcH4U9.mp4'.
+Nov-30-2023 @ 00:26:54 - clip: SmellyFaithfulPartridgeAllenHuhu-9woNJFpSfwIcH4U9 has been downloaded.
+
+Nov-30-2023 @ 00:26:54 - clip: Downloading clip with slug: DeterminedSeductiveOrangeDancingBaby-3sXV2RmiXQ7LTyIo.
+Nov-30-2023 @ 00:26:54 - clip: Saving 'DeterminedSeductiveOrangeDancingBaby-3sXV2RmiXQ7LTyIo' as 'DeterminedSeductiveOrangeDancingBaby3sXV2RmiXQ7LTyIo.mp4'.
+Nov-30-2023 @ 00:26:57 - clip: DeterminedSeductiveOrangeDancingBaby-3sXV2RmiXQ7LTyIo has been downloaded.
+
+Nov-30-2023 @ 00:26:57 - clip: Downloading clip with slug: MushySpineyBoba4Head-obyKcHcOrsNlsPsM.
+Nov-30-2023 @ 00:26:57 - clip: Saving 'MushySpineyBoba4Head-obyKcHcOrsNlsPsM' as 'MushySpineyBoba4HeadobyKcHcOrsNlsPsM.mp4'.
+Nov-30-2023 @ 00:27:00 - clip: MushySpineyBoba4Head-obyKcHcOrsNlsPsM has been downloaded.
+
+Nov-30-2023 @ 00:27:00 - info: Downloaded 6 clips from this batch
+
+Nov-30-2023 @ 00:27:00 - info: Downloaded a total of 6 clips
+Nov-30-2023 @ 00:27:00 - info: Going to render video in /Users/simonbonnedahl/Projects/clips-bot/clips/Nov-30-2023/n8eiy
+
+Nov-30-2023 @ 00:27:01 - info: Added /UglyFunnySpiderJebaitedYLFdlfDgLyavTkLp.mp4 to be rendered
+Nov-30-2023 @ 00:27:01 - info: Added /ClearPlayfulAmazonBIRBPfDNwX4nP2rkK2y7.mp4 to be rendered
+Nov-30-2023 @ 00:27:02 - info: Added /SmellyFaithfulPartridgeAllenHuhu9woNJFpSfwIcH4U9.mp4 to be rendered
+Nov-30-2023 @ 00:27:03 - info: Added /MushySpineyBoba4HeadobyKcHcOrsNlsPsM.mp4 to be rendered
+Nov-30-2023 @ 00:27:04 - info: Added /DeterminedSeductiveOrangeDancingBaby3sXV2RmiXQ7LTyIo.mp4 to be rendered
+Nov-30-2023 @ 00:27:04 - info: Added /LaconicPluckyBaguetteShazBotstixj3YBoLtN1MLoN1ka.mp4 to be rendered
+Nov-30-2023 @ 00:30:01 - info: Video is done rendering!
+
+Nov-30-2023 @ 00:31:30 - info: You're running the latest version of twitchtube at 1.6.6
+Nov-30-2023 @ 00:31:30 - info: You're running the latest version of opplast at 1.0.14
+Nov-30-2023 @ 00:31:30 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Nov-30-2023 @ 00:31:30 - info: Getting clips for game Illuvium
+Nov-30-2023 @ 00:31:31 - clip: Downloading clip with slug: AthleticWildGoatYee-AQahZF-yC-_r6Cka.
+Nov-30-2023 @ 00:31:31 - clip: Saving 'AthleticWildGoatYee-AQahZF-yC-_r6Cka' as 'AthleticWildGoatYeeAQahZFyC_r6Cka.mp4'.
+Nov-30-2023 @ 00:31:34 - clip: AthleticWildGoatYee-AQahZF-yC-_r6Cka has been downloaded.
+
+Nov-30-2023 @ 00:31:34 - clip: Downloading clip with slug: PleasantOilySquirrelPanicVis-EW48qrwjStCeHZJQ.
+Nov-30-2023 @ 00:31:34 - clip: Saving 'PleasantOilySquirrelPanicVis-EW48qrwjStCeHZJQ' as 'PleasantOilySquirrelPanicVisEW48qrwjStCeHZJQ.mp4'.
+Nov-30-2023 @ 00:31:37 - clip: PleasantOilySquirrelPanicVis-EW48qrwjStCeHZJQ has been downloaded.
+
+Nov-30-2023 @ 00:31:37 - clip: Downloading clip with slug: CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80.
+Nov-30-2023 @ 00:31:37 - clip: Saving 'CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80' as 'CooperativeSmellySnailDeIlluminatiqIXDCd1V7V1AM80.mp4'.
+Nov-30-2023 @ 00:31:40 - clip: CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80 has been downloaded.
+
+Nov-30-2023 @ 00:31:40 - clip: Downloading clip with slug: VibrantArbitrarySpiderCclamChamp-0giiglyLCee95fWT.
+Nov-30-2023 @ 00:31:40 - clip: Saving 'VibrantArbitrarySpiderCclamChamp-0giiglyLCee95fWT' as 'VibrantArbitrarySpiderCclamChamp0giiglyLCee95fWT.mp4'.
+Nov-30-2023 @ 00:31:42 - clip: VibrantArbitrarySpiderCclamChamp-0giiglyLCee95fWT has been downloaded.
+
+Nov-30-2023 @ 00:31:43 - clip: Downloading clip with slug: RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z.
+Nov-30-2023 @ 00:31:43 - clip: Saving 'RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z' as 'RoundAbnegateJuiceSoBayedRm1g7NsQhlKMCo4Z.mp4'.
+Nov-30-2023 @ 00:31:45 - clip: RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z has been downloaded.
+
+Nov-30-2023 @ 00:31:46 - clip: Downloading clip with slug: NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX.
+Nov-30-2023 @ 00:31:46 - clip: Saving 'NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX' as 'NastyResourcefulCocoaOSfrogi7sr5I1gk3tjACbX.mp4'.
+Nov-30-2023 @ 00:31:48 - clip: NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX has been downloaded.
+
+Nov-30-2023 @ 00:31:48 - clip: Downloading clip with slug: AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d.
+Nov-30-2023 @ 00:31:48 - clip: Saving 'AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d' as 'AmericanAttractiveSalamanderDxCatCAIgmUEdCwlMLB8d.mp4'.
+Nov-30-2023 @ 00:31:51 - clip: AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d has been downloaded.
+
+Nov-30-2023 @ 00:31:51 - info: Downloaded 7 clips from this batch
+
+Nov-30-2023 @ 00:31:51 - info: Downloaded a total of 7 clips
+Nov-30-2023 @ 00:31:51 - info: Going to render video in /Users/simonbonnedahl/Projects/clips-bot/clips/Nov-30-2023/zlfrr
+
+Nov-30-2023 @ 00:31:51 - info: Added /CooperativeSmellySnailDeIlluminatiqIXDCd1V7V1AM80.mp4 to be rendered
+Nov-30-2023 @ 00:31:52 - info: Added /NastyResourcefulCocoaOSfrogi7sr5I1gk3tjACbX.mp4 to be rendered
+Nov-30-2023 @ 00:31:52 - info: Added /AthleticWildGoatYeeAQahZFyC r6Cka.mp4 to be rendered
+Nov-30-2023 @ 00:31:53 - info: Added /VibrantArbitrarySpiderCclamChamp0giiglyLCee95fWT.mp4 to be rendered
+Nov-30-2023 @ 00:31:54 - info: Added /RoundAbnegateJuiceSoBayedRm1g7NsQhlKMCo4Z.mp4 to be rendered
+Nov-30-2023 @ 00:31:54 - info: Added /AmericanAttractiveSalamanderDxCatCAIgmUEdCwlMLB8d.mp4 to be rendered
+Nov-30-2023 @ 00:31:55 - info: Added /PleasantOilySquirrelPanicVisEW48qrwjStCeHZJQ.mp4 to be rendered
+Nov-30-2023 @ 00:33:36 - info: Video is done rendering!
+
+Nov-30-2023 @ 00:54:03 - info: You're running the latest version of twitchtube at 1.6.6
+Nov-30-2023 @ 00:54:04 - info: You're running the latest version of opplast at 1.0.14
+Nov-30-2023 @ 00:54:04 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Nov-30-2023 @ 00:54:04 - info: Getting clips for game Illuvium
+Nov-30-2023 @ 00:54:05 - clip: Downloading clip with slug: AthleticWildGoatYee-AQahZF-yC-_r6Cka.
+Nov-30-2023 @ 00:54:05 - clip: Saving 'AthleticWildGoatYee-AQahZF-yC-_r6Cka' as 'AthleticWildGoatYeeAQahZFyC_r6Cka.mp4'.
+Nov-30-2023 @ 00:54:06 - clip: AthleticWildGoatYee-AQahZF-yC-_r6Cka has been downloaded.
+
+Nov-30-2023 @ 00:54:07 - clip: Downloading clip with slug: PleasantOilySquirrelPanicVis-EW48qrwjStCeHZJQ.
+Nov-30-2023 @ 00:54:07 - clip: Saving 'PleasantOilySquirrelPanicVis-EW48qrwjStCeHZJQ' as 'PleasantOilySquirrelPanicVisEW48qrwjStCeHZJQ.mp4'.
+Nov-30-2023 @ 00:54:08 - clip: PleasantOilySquirrelPanicVis-EW48qrwjStCeHZJQ has been downloaded.
+
+Nov-30-2023 @ 00:54:08 - clip: Downloading clip with slug: CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80.
+Nov-30-2023 @ 00:54:08 - clip: Saving 'CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80' as 'CooperativeSmellySnailDeIlluminatiqIXDCd1V7V1AM80.mp4'.
+Nov-30-2023 @ 00:54:10 - clip: CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80 has been downloaded.
+
+Nov-30-2023 @ 00:54:10 - clip: Downloading clip with slug: VibrantArbitrarySpiderCclamChamp-0giiglyLCee95fWT.
+Nov-30-2023 @ 00:54:10 - clip: Saving 'VibrantArbitrarySpiderCclamChamp-0giiglyLCee95fWT' as 'VibrantArbitrarySpiderCclamChamp0giiglyLCee95fWT.mp4'.
+Nov-30-2023 @ 00:54:11 - clip: VibrantArbitrarySpiderCclamChamp-0giiglyLCee95fWT has been downloaded.
+
+Nov-30-2023 @ 00:54:11 - clip: Downloading clip with slug: RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z.
+Nov-30-2023 @ 00:54:11 - clip: Saving 'RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z' as 'RoundAbnegateJuiceSoBayedRm1g7NsQhlKMCo4Z.mp4'.
+Nov-30-2023 @ 00:54:13 - clip: RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z has been downloaded.
+
+Nov-30-2023 @ 00:54:13 - clip: Downloading clip with slug: NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX.
+Nov-30-2023 @ 00:54:13 - clip: Saving 'NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX' as 'NastyResourcefulCocoaOSfrogi7sr5I1gk3tjACbX.mp4'.
+Nov-30-2023 @ 00:54:14 - clip: NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX has been downloaded.
+
+Nov-30-2023 @ 00:54:15 - clip: Downloading clip with slug: AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d.
+Nov-30-2023 @ 00:54:15 - clip: Saving 'AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d' as 'AmericanAttractiveSalamanderDxCatCAIgmUEdCwlMLB8d.mp4'.
+Nov-30-2023 @ 00:54:16 - clip: AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d has been downloaded.
+
+Nov-30-2023 @ 00:54:16 - info: Downloaded 7 clips from this batch
+
+Nov-30-2023 @ 00:54:16 - info: Downloaded a total of 7 clips
+Nov-30-2023 @ 00:54:16 - info: Going to render video in /Users/simonbonnedahl/Projects/clips-bot/clips/Nov-30-2023/vu384
+
+Nov-30-2023 @ 00:54:17 - info: Added /CooperativeSmellySnailDeIlluminatiqIXDCd1V7V1AM80.mp4 to be rendered
+Nov-30-2023 @ 00:54:17 - info: Added /NastyResourcefulCocoaOSfrogi7sr5I1gk3tjACbX.mp4 to be rendered
+Nov-30-2023 @ 00:54:18 - info: Added /AthleticWildGoatYeeAQahZFyC r6Cka.mp4 to be rendered
+Nov-30-2023 @ 00:54:19 - info: Added /VibrantArbitrarySpiderCclamChamp0giiglyLCee95fWT.mp4 to be rendered
+Nov-30-2023 @ 00:54:20 - info: Added /RoundAbnegateJuiceSoBayedRm1g7NsQhlKMCo4Z.mp4 to be rendered
+Nov-30-2023 @ 00:54:21 - info: Added /AmericanAttractiveSalamanderDxCatCAIgmUEdCwlMLB8d.mp4 to be rendered
+Nov-30-2023 @ 00:54:22 - info: Added /PleasantOilySquirrelPanicVisEW48qrwjStCeHZJQ.mp4 to be rendered
+Nov-30-2023 @ 00:56:11 - info: Video is done rendering!
+
+Nov-30-2023 @ 14:43:50 - info: You're running the latest version of twitchtube at 1.6.6
+Nov-30-2023 @ 14:43:50 - info: You're running the latest version of opplast at 1.0.14
+Nov-30-2023 @ 14:43:50 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Nov-30-2023 @ 14:43:50 - info: Getting clips for game Illuvium
+Nov-30-2023 @ 14:43:51 - clip: Downloading clip with slug: CaringFlirtyPangolinKappaPride-oQhKv8CLlCm4Jpuc.
+Nov-30-2023 @ 14:43:51 - clip: Saving 'CaringFlirtyPangolinKappaPride-oQhKv8CLlCm4Jpuc' as 'CaringFlirtyPangolinKappaPrideoQhKv8CLlCm4Jpuc.mp4'.
+Nov-30-2023 @ 14:43:54 - clip: CaringFlirtyPangolinKappaPride-oQhKv8CLlCm4Jpuc has been downloaded.
+
+Nov-30-2023 @ 14:43:54 - clip: Downloading clip with slug: EnthusiasticTriumphantWitchDoritosChip-WVNdLPhsfPn3ePAw.
+Nov-30-2023 @ 14:43:54 - clip: Saving 'EnthusiasticTriumphantWitchDoritosChip-WVNdLPhsfPn3ePAw' as 'EnthusiasticTriumphantWitchDoritosChipWVNdLPhsfPn3ePAw.mp4'.
+Nov-30-2023 @ 14:43:57 - clip: EnthusiasticTriumphantWitchDoritosChip-WVNdLPhsfPn3ePAw has been downloaded.
+
+Nov-30-2023 @ 14:43:57 - clip: Downloading clip with slug: AthleticWildGoatYee-AQahZF-yC-_r6Cka.
+Nov-30-2023 @ 14:43:57 - clip: Saving 'AthleticWildGoatYee-AQahZF-yC-_r6Cka' as 'AthleticWildGoatYeeAQahZFyC_r6Cka.mp4'.
+Nov-30-2023 @ 14:43:58 - clip: AthleticWildGoatYee-AQahZF-yC-_r6Cka has been downloaded.
+
+Nov-30-2023 @ 14:43:58 - clip: Downloading clip with slug: FlaccidFairGoshawkNinjaGrumpy-2nppLGj9WwLoubQS.
+Nov-30-2023 @ 14:43:58 - clip: Saving 'FlaccidFairGoshawkNinjaGrumpy-2nppLGj9WwLoubQS' as 'FlaccidFairGoshawkNinjaGrumpy2nppLGj9WwLoubQS.mp4'.
+Nov-30-2023 @ 14:44:01 - clip: FlaccidFairGoshawkNinjaGrumpy-2nppLGj9WwLoubQS has been downloaded.
+
+Nov-30-2023 @ 14:44:01 - clip: Downloading clip with slug: CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80.
+Nov-30-2023 @ 14:44:01 - clip: Saving 'CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80' as 'CooperativeSmellySnailDeIlluminatiqIXDCd1V7V1AM80.mp4'.
+Nov-30-2023 @ 14:44:02 - clip: CooperativeSmellySnailDeIlluminati-qIXD-Cd1V7V1AM80 has been downloaded.
+
+Nov-30-2023 @ 14:44:03 - clip: Downloading clip with slug: RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z.
+Nov-30-2023 @ 14:44:03 - clip: Saving 'RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z' as 'RoundAbnegateJuiceSoBayedRm1g7NsQhlKMCo4Z.mp4'.
+Nov-30-2023 @ 14:44:04 - clip: RoundAbnegateJuiceSoBayed-Rm1g7NsQhlKMCo4Z has been downloaded.
+
+Nov-30-2023 @ 14:44:04 - clip: Downloading clip with slug: MagnificentLovelyWeaselImGlitch-8n6JCbVWgGQ5OgX-.
+Nov-30-2023 @ 14:44:04 - clip: Saving 'MagnificentLovelyWeaselImGlitch-8n6JCbVWgGQ5OgX-' as 'MagnificentLovelyWeaselImGlitch8n6JCbVWgGQ5OgX.mp4'.
+Nov-30-2023 @ 14:44:07 - clip: MagnificentLovelyWeaselImGlitch-8n6JCbVWgGQ5OgX- has been downloaded.
+
+Nov-30-2023 @ 14:44:07 - clip: Downloading clip with slug: ElegantShakingLocustItsBoshyTime-uN8YIn6wJjpIjEgL.
+Nov-30-2023 @ 14:44:07 - clip: Saving 'ElegantShakingLocustItsBoshyTime-uN8YIn6wJjpIjEgL' as 'ElegantShakingLocustItsBoshyTimeuN8YIn6wJjpIjEgL.mp4'.
+Nov-30-2023 @ 14:44:10 - clip: ElegantShakingLocustItsBoshyTime-uN8YIn6wJjpIjEgL has been downloaded.
+
+Nov-30-2023 @ 14:44:11 - clip: Downloading clip with slug: RespectfulMuddyKoalaTheRinger-WfaaBc5a948BrXgM.
+Nov-30-2023 @ 14:44:11 - clip: Saving 'RespectfulMuddyKoalaTheRinger-WfaaBc5a948BrXgM' as 'RespectfulMuddyKoalaTheRingerWfaaBc5a948BrXgM.mp4'.
+Nov-30-2023 @ 14:44:13 - clip: RespectfulMuddyKoalaTheRinger-WfaaBc5a948BrXgM has been downloaded.
+
+Nov-30-2023 @ 14:44:13 - clip: Downloading clip with slug: NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX.
+Nov-30-2023 @ 14:44:13 - clip: Saving 'NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX' as 'NastyResourcefulCocoaOSfrogi7sr5I1gk3tjACbX.mp4'.
+Nov-30-2023 @ 14:44:14 - clip: NastyResourcefulCocoaOSfrog-i7sr5I1gk3tjACbX has been downloaded.
+
+Nov-30-2023 @ 14:44:15 - clip: Downloading clip with slug: AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d.
+Nov-30-2023 @ 14:44:15 - clip: Saving 'AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d' as 'AmericanAttractiveSalamanderDxCatCAIgmUEdCwlMLB8d.mp4'.
+Nov-30-2023 @ 14:44:16 - clip: AmericanAttractiveSalamanderDxCat-CAIgmUEdCwlMLB8d has been downloaded.
+
+Nov-30-2023 @ 14:44:16 - info: Downloaded 11 clips from this batch
+
+Nov-30-2023 @ 14:44:16 - info: Downloaded a total of 11 clips
+Nov-30-2023 @ 14:44:16 - info: Going to render video in /Users/simonbonnedahl/Projects/clips-bot/clips/Nov-30-2023/3heso
+
+Nov-30-2023 @ 14:44:16 - info: Added /CaringFlirtyPangolinKappaPrideoQhKv8CLlCm4Jpuc.mp4 to be rendered
+Nov-30-2023 @ 14:44:17 - info: Added /MagnificentLovelyWeaselImGlitch8n6JCbVWgGQ5OgX.mp4 to be rendered
+Nov-30-2023 @ 14:44:18 - info: Added /CooperativeSmellySnailDeIlluminatiqIXDCd1V7V1AM80.mp4 to be rendered
+Nov-30-2023 @ 14:44:19 - info: Added /FlaccidFairGoshawkNinjaGrumpy2nppLGj9WwLoubQS.mp4 to be rendered
+Nov-30-2023 @ 14:44:20 - info: Added /NastyResourcefulCocoaOSfrogi7sr5I1gk3tjACbX.mp4 to be rendered
+Nov-30-2023 @ 14:44:21 - info: Added /AthleticWildGoatYeeAQahZFyC r6Cka.mp4 to be rendered
+Nov-30-2023 @ 14:44:22 - info: Added /RespectfulMuddyKoalaTheRingerWfaaBc5a948BrXgM.mp4 to be rendered
+Nov-30-2023 @ 14:44:23 - info: Added /ElegantShakingLocustItsBoshyTimeuN8YIn6wJjpIjEgL.mp4 to be rendered
+Nov-30-2023 @ 14:44:23 - info: Added /EnthusiasticTriumphantWitchDoritosChipWVNdLPhsfPn3ePAw.mp4 to be rendered
+Nov-30-2023 @ 14:44:24 - info: Added /RoundAbnegateJuiceSoBayedRm1g7NsQhlKMCo4Z.mp4 to be rendered
+Nov-30-2023 @ 14:44:25 - info: Added /AmericanAttractiveSalamanderDxCatCAIgmUEdCwlMLB8d.mp4 to be rendered
+Nov-30-2023 @ 14:46:24 - info: Video is done rendering!
+
+Dec-01-2023 @ 00:22:44 - info: You're running the latest version of twitchtube at 1.6.6
+Dec-01-2023 @ 00:22:44 - info: You're running the latest version of opplast at 1.0.14
+Dec-01-2023 @ 00:22:44 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Dec-01-2023 @ 00:22:44 - info: Getting clips for game Illuvium
+Dec-01-2023 @ 00:22:45 - clip: Downloading clip with slug: FaithfulSteamyPicklesWholeWheat-EowgJ4kPYMFmpKN3.
+Dec-01-2023 @ 00:22:45 - clip: Saving 'FaithfulSteamyPicklesWholeWheat-EowgJ4kPYMFmpKN3' as 'FaithfulSteamyPicklesWholeWheatEowgJ4kPYMFmpKN3.mp4'.
+Dec-01-2023 @ 00:22:48 - clip: FaithfulSteamyPicklesWholeWheat-EowgJ4kPYMFmpKN3 has been downloaded.
+
+Dec-01-2023 @ 00:22:48 - clip: Downloading clip with slug: CaringFlirtyPangolinKappaPride-oQhKv8CLlCm4Jpuc.
+Dec-01-2023 @ 00:22:48 - clip: Saving 'CaringFlirtyPangolinKappaPride-oQhKv8CLlCm4Jpuc' as 'CaringFlirtyPangolinKappaPrideoQhKv8CLlCm4Jpuc.mp4'.
+Dec-01-2023 @ 00:22:51 - clip: CaringFlirtyPangolinKappaPride-oQhKv8CLlCm4Jpuc has been downloaded.
+
+Dec-01-2023 @ 00:22:52 - clip: Downloading clip with slug: FilthyInspiringRadicchioDogFace-CKls8xzghZkPV9J_.
+Dec-01-2023 @ 00:22:52 - clip: Saving 'FilthyInspiringRadicchioDogFace-CKls8xzghZkPV9J_' as 'FilthyInspiringRadicchioDogFaceCKls8xzghZkPV9J_.mp4'.
+Dec-01-2023 @ 00:22:57 - clip: FilthyInspiringRadicchioDogFace-CKls8xzghZkPV9J_ has been downloaded.
+
+Dec-01-2023 @ 00:22:58 - clip: Downloading clip with slug: EnthusiasticTriumphantWitchDoritosChip-WVNdLPhsfPn3ePAw.
+Dec-01-2023 @ 00:22:58 - clip: Saving 'EnthusiasticTriumphantWitchDoritosChip-WVNdLPhsfPn3ePAw' as 'EnthusiasticTriumphantWitchDoritosChipWVNdLPhsfPn3ePAw.mp4'.
+Dec-01-2023 @ 00:23:00 - clip: EnthusiasticTriumphantWitchDoritosChip-WVNdLPhsfPn3ePAw has been downloaded.
+
+Dec-01-2023 @ 00:23:01 - clip: Downloading clip with slug: RockyPlacidCocoaWow-myAiqiD-YPtcQ-Rk.
+Dec-01-2023 @ 00:23:01 - clip: Saving 'RockyPlacidCocoaWow-myAiqiD-YPtcQ-Rk' as 'RockyPlacidCocoaWowmyAiqiDYPtcQRk.mp4'.
+Dec-01-2023 @ 00:23:03 - clip: RockyPlacidCocoaWow-myAiqiD-YPtcQ-Rk has been downloaded.
+
+Dec-01-2023 @ 00:23:04 - clip: Downloading clip with slug: BlushingYawningSoybeanResidentSleeper-uzEl3uzGfkET8W64.
+Dec-01-2023 @ 00:23:04 - clip: Saving 'BlushingYawningSoybeanResidentSleeper-uzEl3uzGfkET8W64' as 'BlushingYawningSoybeanResidentSleeperuzEl3uzGfkET8W64.mp4'.
+Dec-01-2023 @ 00:23:06 - clip: BlushingYawningSoybeanResidentSleeper-uzEl3uzGfkET8W64 has been downloaded.
+
+Dec-01-2023 @ 00:23:06 - clip: Downloading clip with slug: SmilingLittleBibimbapTheRinger-O81KRT63z5A49Uh4.
+Dec-01-2023 @ 00:23:06 - clip: Saving 'SmilingLittleBibimbapTheRinger-O81KRT63z5A49Uh4' as 'SmilingLittleBibimbapTheRingerO81KRT63z5A49Uh4.mp4'.
+Dec-01-2023 @ 00:23:09 - clip: SmilingLittleBibimbapTheRinger-O81KRT63z5A49Uh4 has been downloaded.
+
+Dec-01-2023 @ 00:23:09 - clip: Downloading clip with slug: FlaccidFairGoshawkNinjaGrumpy-2nppLGj9WwLoubQS.
+Dec-01-2023 @ 00:23:09 - clip: Saving 'FlaccidFairGoshawkNinjaGrumpy-2nppLGj9WwLoubQS' as 'FlaccidFairGoshawkNinjaGrumpy2nppLGj9WwLoubQS.mp4'.
+Dec-01-2023 @ 00:23:12 - clip: FlaccidFairGoshawkNinjaGrumpy-2nppLGj9WwLoubQS has been downloaded.
+
+Dec-01-2023 @ 00:23:12 - clip: Downloading clip with slug: MagnificentLovelyWeaselImGlitch-8n6JCbVWgGQ5OgX-.
+Dec-01-2023 @ 00:23:12 - clip: Saving 'MagnificentLovelyWeaselImGlitch-8n6JCbVWgGQ5OgX-' as 'MagnificentLovelyWeaselImGlitch8n6JCbVWgGQ5OgX.mp4'.
+Dec-01-2023 @ 00:23:15 - clip: MagnificentLovelyWeaselImGlitch-8n6JCbVWgGQ5OgX- has been downloaded.
+
+Dec-01-2023 @ 00:23:15 - clip: Downloading clip with slug: SpoopySarcasticEchidnaCclamChamp-aV1UK4dyBx3yUHbl.
+Dec-01-2023 @ 00:23:15 - clip: Saving 'SpoopySarcasticEchidnaCclamChamp-aV1UK4dyBx3yUHbl' as 'SpoopySarcasticEchidnaCclamChampaV1UK4dyBx3yUHbl.mp4'.
+Dec-01-2023 @ 00:23:18 - clip: SpoopySarcasticEchidnaCclamChamp-aV1UK4dyBx3yUHbl has been downloaded.
+
+Dec-01-2023 @ 00:23:19 - clip: Downloading clip with slug: TenderCrackyLatteBibleThump-SP1v7teH3e3zlkXO.
+Dec-01-2023 @ 00:23:19 - clip: Saving 'TenderCrackyLatteBibleThump-SP1v7teH3e3zlkXO' as 'TenderCrackyLatteBibleThumpSP1v7teH3e3zlkXO.mp4'.
+Dec-01-2023 @ 00:23:21 - clip: TenderCrackyLatteBibleThump-SP1v7teH3e3zlkXO has been downloaded.
+
+Dec-01-2023 @ 00:23:21 - clip: Downloading clip with slug: RespectfulMuddyKoalaTheRinger-WfaaBc5a948BrXgM.
+Dec-01-2023 @ 00:23:21 - clip: Saving 'RespectfulMuddyKoalaTheRinger-WfaaBc5a948BrXgM' as 'RespectfulMuddyKoalaTheRingerWfaaBc5a948BrXgM.mp4'.
+Dec-01-2023 @ 00:23:24 - clip: RespectfulMuddyKoalaTheRinger-WfaaBc5a948BrXgM has been downloaded.
+
+Dec-01-2023 @ 00:23:24 - clip: Downloading clip with slug: ElegantShakingLocustItsBoshyTime-uN8YIn6wJjpIjEgL.
+Dec-01-2023 @ 00:23:24 - clip: Saving 'ElegantShakingLocustItsBoshyTime-uN8YIn6wJjpIjEgL' as 'ElegantShakingLocustItsBoshyTimeuN8YIn6wJjpIjEgL.mp4'.
+Dec-01-2023 @ 00:23:27 - clip: ElegantShakingLocustItsBoshyTime-uN8YIn6wJjpIjEgL has been downloaded.
+
+Dec-01-2023 @ 00:23:27 - info: Downloaded 13 clips from this batch
+
+Dec-01-2023 @ 00:23:27 - info: Downloaded a total of 13 clips
+Dec-01-2023 @ 00:23:27 - info: Going to render video in /Users/simonbonnedahl/Projects/clips-bot/clips/Dec-01-2023/lcq1t
+
+Dec-01-2023 @ 00:23:28 - info: Added /CaringFlirtyPangolinKappaPrideoQhKv8CLlCm4Jpuc.mp4 to be rendered
+Dec-01-2023 @ 00:23:29 - info: Added /MagnificentLovelyWeaselImGlitch8n6JCbVWgGQ5OgX.mp4 to be rendered
+Dec-01-2023 @ 00:23:30 - info: Added /BlushingYawningSoybeanResidentSleeperuzEl3uzGfkET8W64.mp4 to be rendered
+Dec-01-2023 @ 00:23:31 - info: Added /FlaccidFairGoshawkNinjaGrumpy2nppLGj9WwLoubQS.mp4 to be rendered
+Dec-01-2023 @ 00:23:31 - info: Added /SpoopySarcasticEchidnaCclamChampaV1UK4dyBx3yUHbl.mp4 to be rendered
+Dec-01-2023 @ 00:23:32 - info: Added /RespectfulMuddyKoalaTheRingerWfaaBc5a948BrXgM.mp4 to be rendered
+Dec-01-2023 @ 00:23:33 - info: Added /FaithfulSteamyPicklesWholeWheatEowgJ4kPYMFmpKN3.mp4 to be rendered
+Dec-01-2023 @ 00:23:34 - info: Added /ElegantShakingLocustItsBoshyTimeuN8YIn6wJjpIjEgL.mp4 to be rendered
+Dec-01-2023 @ 00:23:35 - info: Added /TenderCrackyLatteBibleThumpSP1v7teH3e3zlkXO.mp4 to be rendered
+Dec-01-2023 @ 00:23:36 - info: Added /RockyPlacidCocoaWowmyAiqiDYPtcQRk.mp4 to be rendered
+Dec-01-2023 @ 00:23:37 - info: Added /FilthyInspiringRadicchioDogFaceCKls8xzghZkPV9J .mp4 to be rendered
+Dec-01-2023 @ 00:23:39 - info: Added /SmilingLittleBibimbapTheRingerO81KRT63z5A49Uh4.mp4 to be rendered
+Dec-01-2023 @ 00:23:39 - info: Added /EnthusiasticTriumphantWitchDoritosChipWVNdLPhsfPn3ePAw.mp4 to be rendered
+Dec-01-2023 @ 00:25:57 - info: Video is done rendering!
+
+Dec-05-2023 @ 15:03:26 - info: You're running the latest version of twitchtube at 1.6.6
+Dec-05-2023 @ 15:03:26 - info: You're running the latest version of opplast at 1.0.14
+Dec-05-2023 @ 15:03:26 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Dec-05-2023 @ 15:03:26 - info: Getting clips for game Illuvium
+Dec-05-2023 @ 15:03:28 - clip: Downloading clip with slug: TallTrappedSoymilkArgieB8--x5S9aSSo5wTk9JG.
+Dec-05-2023 @ 15:03:28 - clip: Saving 'TallTrappedSoymilkArgieB8--x5S9aSSo5wTk9JG' as 'TallTrappedSoymilkArgieB8x5S9aSSo5wTk9JG.mp4'.
+Dec-05-2023 @ 15:03:30 - clip: TallTrappedSoymilkArgieB8--x5S9aSSo5wTk9JG has been downloaded.
+
+Dec-05-2023 @ 15:03:30 - clip: Downloading clip with slug: ObeseTangibleGorillaEagleEye-Cw0LmFSF31syQVDq.
+Dec-05-2023 @ 15:03:30 - clip: Saving 'ObeseTangibleGorillaEagleEye-Cw0LmFSF31syQVDq' as 'ObeseTangibleGorillaEagleEyeCw0LmFSF31syQVDq.mp4'.
+Dec-05-2023 @ 15:03:33 - clip: ObeseTangibleGorillaEagleEye-Cw0LmFSF31syQVDq has been downloaded.
+
+Dec-05-2023 @ 15:03:33 - clip: Downloading clip with slug: ConsiderateFastOstrichAMPTropPunch-lkWZVk0wKATrwVWQ.
+Dec-05-2023 @ 15:03:33 - clip: Saving 'ConsiderateFastOstrichAMPTropPunch-lkWZVk0wKATrwVWQ' as 'ConsiderateFastOstrichAMPTropPunchlkWZVk0wKATrwVWQ.mp4'.
+Dec-05-2023 @ 15:03:35 - clip: ConsiderateFastOstrichAMPTropPunch-lkWZVk0wKATrwVWQ has been downloaded.
+
+Dec-05-2023 @ 15:03:36 - clip: Downloading clip with slug: TrustworthyFurtiveDonkeyThunBeast-0BLLRW2tGR4tjAEi.
+Dec-05-2023 @ 15:03:36 - clip: Saving 'TrustworthyFurtiveDonkeyThunBeast-0BLLRW2tGR4tjAEi' as 'TrustworthyFurtiveDonkeyThunBeast0BLLRW2tGR4tjAEi.mp4'.
+Dec-05-2023 @ 15:03:38 - clip: TrustworthyFurtiveDonkeyThunBeast-0BLLRW2tGR4tjAEi has been downloaded.
+
+Dec-05-2023 @ 15:03:39 - clip: Downloading clip with slug: SneakyCrypticBeanLitty-XH0JE3FXii67aelv.
+Dec-05-2023 @ 15:03:39 - clip: Saving 'SneakyCrypticBeanLitty-XH0JE3FXii67aelv' as 'SneakyCrypticBeanLittyXH0JE3FXii67aelv.mp4'.
+Dec-05-2023 @ 15:03:41 - clip: SneakyCrypticBeanLitty-XH0JE3FXii67aelv has been downloaded.
+
+Dec-05-2023 @ 15:03:41 - clip: Downloading clip with slug: EphemeralTenuousKaleAMPEnergyCherry-uRyKdBN9x7-ZC-Wa.
+Dec-05-2023 @ 15:03:41 - clip: Saving 'EphemeralTenuousKaleAMPEnergyCherry-uRyKdBN9x7-ZC-Wa' as 'EphemeralTenuousKaleAMPEnergyCherryuRyKdBN9x7ZCWa.mp4'.
+Dec-05-2023 @ 15:03:43 - clip: EphemeralTenuousKaleAMPEnergyCherry-uRyKdBN9x7-ZC-Wa has been downloaded.
+
+Dec-05-2023 @ 15:03:44 - clip: Downloading clip with slug: OilyShortKittenEagleEye-P2kMQR8v1dcExKa1.
+Dec-05-2023 @ 15:03:44 - clip: Saving 'OilyShortKittenEagleEye-P2kMQR8v1dcExKa1' as 'OilyShortKittenEagleEyeP2kMQR8v1dcExKa1.mp4'.
+Dec-05-2023 @ 15:03:46 - clip: OilyShortKittenEagleEye-P2kMQR8v1dcExKa1 has been downloaded.
+
+Dec-05-2023 @ 15:03:46 - clip: Downloading clip with slug: ThoughtfulLivelyChoughCopyThis-dkCSxAd1yb9onfQ1.
+Dec-05-2023 @ 15:03:46 - clip: Saving 'ThoughtfulLivelyChoughCopyThis-dkCSxAd1yb9onfQ1' as 'ThoughtfulLivelyChoughCopyThisdkCSxAd1yb9onfQ1.mp4'.
+Dec-05-2023 @ 15:03:48 - clip: ThoughtfulLivelyChoughCopyThis-dkCSxAd1yb9onfQ1 has been downloaded.
+
+Dec-05-2023 @ 15:03:49 - clip: Downloading clip with slug: TrustworthyCrazySrirachaDerp-HbYbtX1Or8N9fJ12.
+Dec-05-2023 @ 15:03:49 - clip: Saving 'TrustworthyCrazySrirachaDerp-HbYbtX1Or8N9fJ12' as 'TrustworthyCrazySrirachaDerpHbYbtX1Or8N9fJ12.mp4'.
+Dec-05-2023 @ 15:03:51 - clip: TrustworthyCrazySrirachaDerp-HbYbtX1Or8N9fJ12 has been downloaded.
+
+Dec-05-2023 @ 15:03:51 - info: Downloaded 9 clips from this batch
+
+Dec-05-2023 @ 15:03:51 - info: Downloaded a total of 9 clips
+Dec-05-2023 @ 15:03:51 - info: Going to render video in /Users/simonbonnedahl/Projects/clips-bot/clips/Dec-05-2023/rclu5
+
+Dec-05-2023 @ 15:03:52 - info: Added /ObeseTangibleGorillaEagleEyeCw0LmFSF31syQVDq.mp4 to be rendered
+Dec-05-2023 @ 15:03:53 - info: Added /OilyShortKittenEagleEyeP2kMQR8v1dcExKa1.mp4 to be rendered
+Dec-05-2023 @ 15:03:54 - info: Added /ThoughtfulLivelyChoughCopyThisdkCSxAd1yb9onfQ1.mp4 to be rendered
+Dec-05-2023 @ 15:03:56 - info: Added /ConsiderateFastOstrichAMPTropPunchlkWZVk0wKATrwVWQ.mp4 to be rendered
+Dec-05-2023 @ 15:03:57 - info: Added /TallTrappedSoymilkArgieB8x5S9aSSo5wTk9JG.mp4 to be rendered
+Dec-05-2023 @ 15:03:58 - info: Added /EphemeralTenuousKaleAMPEnergyCherryuRyKdBN9x7ZCWa.mp4 to be rendered
+Dec-05-2023 @ 15:04:00 - info: Added /SneakyCrypticBeanLittyXH0JE3FXii67aelv.mp4 to be rendered
+Dec-05-2023 @ 15:04:01 - info: Added /TrustworthyFurtiveDonkeyThunBeast0BLLRW2tGR4tjAEi.mp4 to be rendered
+Dec-05-2023 @ 15:04:02 - info: Added /TrustworthyCrazySrirachaDerpHbYbtX1Or8N9fJ12.mp4 to be rendered
+Dec-05-2023 @ 15:08:06 - info: Video is done rendering!
+
+Dec-09-2023 @ 16:05:15 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Dec-09-2023 @ 16:05:16 - info: Getting clips for game Illuvium
+Dec-09-2023 @ 16:05:17 - clip: Downloading clip with slug: AmusedEvilVultureShadyLulu-lYcd_bwKPPmhCbwl.
+Dec-09-2023 @ 16:05:17 - clip: Saving 'AmusedEvilVultureShadyLulu-lYcd_bwKPPmhCbwl' as 'AmusedEvilVultureShadyLululYcd_bwKPPmhCbwl.mp4'.
+Dec-09-2023 @ 16:05:20 - clip: AmusedEvilVultureShadyLulu-lYcd_bwKPPmhCbwl has been downloaded.
+
+Dec-09-2023 @ 16:05:20 - clip: Downloading clip with slug: TrustworthyCallousBaboonWholeWheat--wBbVlP5tuCtoTpo.
+Dec-09-2023 @ 16:05:20 - clip: Saving 'TrustworthyCallousBaboonWholeWheat--wBbVlP5tuCtoTpo' as 'TrustworthyCallousBaboonWholeWheatwBbVlP5tuCtoTpo.mp4'.
+Dec-09-2023 @ 16:05:23 - clip: TrustworthyCallousBaboonWholeWheat--wBbVlP5tuCtoTpo has been downloaded.
+
+Dec-09-2023 @ 16:05:23 - clip: Downloading clip with slug: CorrectMuddyMallardAllenHuhu-hGQSUxdQr3qptcjZ.
+Dec-09-2023 @ 16:05:23 - clip: Saving 'CorrectMuddyMallardAllenHuhu-hGQSUxdQr3qptcjZ' as 'CorrectMuddyMallardAllenHuhuhGQSUxdQr3qptcjZ.mp4'.
+Dec-09-2023 @ 16:05:26 - clip: CorrectMuddyMallardAllenHuhu-hGQSUxdQr3qptcjZ has been downloaded.
+
+Dec-09-2023 @ 16:05:27 - clip: Downloading clip with slug: ThankfulCrazyHareUWot-pzFTYJyDs_P9GYOy.
+Dec-09-2023 @ 16:05:27 - clip: Saving 'ThankfulCrazyHareUWot-pzFTYJyDs_P9GYOy' as 'ThankfulCrazyHareUWotpzFTYJyDs_P9GYOy.mp4'.
+Dec-09-2023 @ 16:05:29 - clip: ThankfulCrazyHareUWot-pzFTYJyDs_P9GYOy has been downloaded.
+
+Dec-09-2023 @ 16:05:30 - clip: Downloading clip with slug: SwissEvilEggplantTwitchRPG-6NQ4qGTmSWHrsP64.
+Dec-09-2023 @ 16:05:30 - clip: Saving 'SwissEvilEggplantTwitchRPG-6NQ4qGTmSWHrsP64' as 'SwissEvilEggplantTwitchRPG6NQ4qGTmSWHrsP64.mp4'.
+Dec-09-2023 @ 16:05:32 - clip: SwissEvilEggplantTwitchRPG-6NQ4qGTmSWHrsP64 has been downloaded.
+
+Dec-09-2023 @ 16:05:33 - clip: Downloading clip with slug: ProudMoistCookieSmoocherZ-7ahBn-2T0LOoxN9B.
+Dec-09-2023 @ 16:05:33 - clip: Saving 'ProudMoistCookieSmoocherZ-7ahBn-2T0LOoxN9B' as 'ProudMoistCookieSmoocherZ7ahBn2T0LOoxN9B.mp4'.
+Dec-09-2023 @ 16:05:35 - clip: ProudMoistCookieSmoocherZ-7ahBn-2T0LOoxN9B has been downloaded.
+
+Dec-09-2023 @ 16:05:35 - info: Downloaded 6 clips from this batch
+
+Dec-09-2023 @ 16:05:35 - info: Downloaded a total of 6 clips
+Dec-09-2023 @ 16:05:35 - info: Going to render video in /Users/simonbonnedahl/Projects/clips-bot/clips/Dec-09-2023/ts96v
+
+Dec-09-2023 @ 16:05:35 - info: Added /ProudMoistCookieSmoocherZ7ahBn2T0LOoxN9B.mp4 to be rendered
+Dec-09-2023 @ 16:05:36 - info: Added /TrustworthyCallousBaboonWholeWheatwBbVlP5tuCtoTpo.mp4 to be rendered
+Dec-09-2023 @ 16:05:37 - info: Added /AmusedEvilVultureShadyLululYcd bwKPPmhCbwl.mp4 to be rendered
+Dec-09-2023 @ 16:05:38 - info: Added /ThankfulCrazyHareUWotpzFTYJyDs P9GYOy.mp4 to be rendered
+Dec-09-2023 @ 16:05:39 - info: Added /CorrectMuddyMallardAllenHuhuhGQSUxdQr3qptcjZ.mp4 to be rendered
+Dec-09-2023 @ 16:05:40 - info: Added /SwissEvilEggplantTwitchRPG6NQ4qGTmSWHrsP64.mp4 to be rendered
+Dec-09-2023 @ 16:07:11 - info: Video is done rendering!
+
+Dec-09-2023 @ 16:07:11 - info: Getting files to delete...
+Dec-09-2023 @ 16:07:11 - clip: Deleted /ProudMoistCookieSmoocherZ7ahBn2T0LOoxN9B.mp4
+Dec-09-2023 @ 16:07:11 - clip: Deleted /TrustworthyCallousBaboonWholeWheatwBbVlP5tuCtoTpo.mp4
+Dec-09-2023 @ 16:07:11 - clip: Deleted /AmusedEvilVultureShadyLululYcd_bwKPPmhCbwl.mp4
+Dec-09-2023 @ 16:07:11 - clip: Deleted /ThankfulCrazyHareUWotpzFTYJyDs_P9GYOy.mp4
+Dec-09-2023 @ 16:07:11 - clip: Deleted /CorrectMuddyMallardAllenHuhuhGQSUxdQr3qptcjZ.mp4
+Dec-09-2023 @ 16:07:11 - clip: Deleted /SwissEvilEggplantTwitchRPG6NQ4qGTmSWHrsP64.mp4
+Dec-09-2023 @ 16:07:11 - info: Done!
