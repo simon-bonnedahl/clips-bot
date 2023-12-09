@@ -3,3 +3,4 @@ venv
 clips
 *.pyc
 clipsbot/config.py
+.DS_Store
